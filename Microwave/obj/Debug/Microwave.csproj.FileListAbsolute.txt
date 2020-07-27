@@ -1,0 +1,10 @@
+C:\Users\rafa_\Documents\C#\Benner\WFMicrowave\Microwave\Microwave\bin\Debug\Microwave.exe.config
+C:\Users\rafa_\Documents\C#\Benner\WFMicrowave\Microwave\Microwave\bin\Debug\Microwave.exe
+C:\Users\rafa_\Documents\C#\Benner\WFMicrowave\Microwave\Microwave\bin\Debug\Microwave.pdb
+C:\Users\rafa_\Documents\C#\Benner\WFMicrowave\Microwave\Microwave\obj\Debug\Microwave.csprojAssemblyReference.cache
+C:\Users\rafa_\Documents\C#\Benner\WFMicrowave\Microwave\Microwave\obj\Debug\Microwave.Properties.Resources.resources
+C:\Users\rafa_\Documents\C#\Benner\WFMicrowave\Microwave\Microwave\obj\Debug\Microwave.csproj.GenerateResource.cache
+C:\Users\rafa_\Documents\C#\Benner\WFMicrowave\Microwave\Microwave\obj\Debug\Microwave.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\Documents\C#\Benner\WFMicrowave\Microwave\Microwave\obj\Debug\Microwave.exe
+C:\Users\rafa_\Documents\C#\Benner\WFMicrowave\Microwave\Microwave\obj\Debug\Microwave.pdb
+C:\Users\rafa_\Documents\C#\Benner\WFMicrowave\Microwave\Microwave\obj\Debug\Microwave.Microwave.resources
