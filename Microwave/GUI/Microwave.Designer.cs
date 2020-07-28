@@ -127,9 +127,9 @@
             this.btnAddProgram.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAddProgram.Location = new System.Drawing.Point(677, 459);
             this.btnAddProgram.Name = "btnAddProgram";
-            this.btnAddProgram.Size = new System.Drawing.Size(116, 44);
+            this.btnAddProgram.Size = new System.Drawing.Size(128, 44);
             this.btnAddProgram.TabIndex = 8;
-            this.btnAddProgram.Text = "+ Program";
+            this.btnAddProgram.Text = "+ Programa";
             this.btnAddProgram.UseVisualStyleBackColor = true;
             this.btnAddProgram.Click += new System.EventHandler(this.btnAddProgram_Click);
             // 

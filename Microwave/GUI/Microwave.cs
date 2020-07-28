@@ -88,6 +88,7 @@ namespace Microwave
                 int timer = int.Parse(txbTimer.Text);
 
                 int power = Verifiers.VerifyPower(txbPower.Text);
+                txbPower.Text = power.ToString();
 
                 char character = Verifiers.VerifyChar(txbChar.Text);
 
@@ -145,7 +146,7 @@ namespace Microwave
                 lbResult.Text = plate.Food;
                 ClearFields();
                 timerDisplay.Stop();
-                MessageBox.Show("Finalizado!");
+                MessageBox.Show("Aquecida!");
             }
             displayTimerCount--;
         }
